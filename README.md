@@ -1,1 +1,1 @@
-HtmlProject
+Color Flipper is a website created by using HTML, CSS, and JavaScript. If you click 'click me' button from 'simple' page, the background color from my website will randomly change between red, green, blue, and rgba. Also, if you click 'click me' button from 'hex' page, the background color from the website will randomly change between #000000 to #FFFFFF.
